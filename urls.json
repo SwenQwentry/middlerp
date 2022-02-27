@@ -1,7 +1,7 @@
 {
   "URL_HOST": "http://dl.online-launcher.ru/SAMPNEW/",
   "URL_UPDATE": "http://online-launcher.ru/SAMPNEW/update.json",
-  "URL_NEWS": "http://online-launcher.ru/SAMPNEW/news.json",
+  "URL_NEWS": "https://raw.githubusercontent.com/SwenQwentry/middlerp/main/news.json",
   "URL_HELP": "http://online-launcher.ru/SAMPNEW/help.json",
   "URL_CONFIG": "http://online-launcher.ru/SAMPNEW/config/samp_settings.ini",
   "URL_ONLINE_API": "http://gta-mobile.ru/api/online_api.php",
