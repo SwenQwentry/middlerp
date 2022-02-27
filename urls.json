@@ -1,15 +1,15 @@
 {
   "URL_HOST": "http://dl.online-launcher.ru/SAMPNEW/",
-  "URL_UPDATE": "https://raw.githubusercontent.com/Clarence2021/emeraldrussia/main/update.json",
-  "URL_NEWS": "https://raw.githubusercontent.com/Clarence2021/emeraldrussia/main/news.json",
+  "URL_UPDATE": "http://online-launcher.ru/SAMPNEW/update.json",
+  "URL_NEWS": "http://online-launcher.ru/SAMPNEW/news.json",
   "URL_HELP": "http://online-launcher.ru/SAMPNEW/help.json",
   "URL_CONFIG": "http://online-launcher.ru/SAMPNEW/config/samp_settings.ini",
-  "URL_ONLINE_API": "https://raw.githubusercontent.com/Clarence2021/emeraldrussia/main/online_api.json",
+  "URL_ONLINE_API": "http://gta-mobile.ru/api/online_api.php",
   "URL_DONATE_API": "http://gta-mobile.ru/api/donate_api.php",
-  "URL_SITE": "https://emeraldrussia.online/",
-  "URL_VK": "https://vk.com/emeraldrussia.online",
+  "URL_SITE": "https://gta-mobile.ru/",
+  "URL_VK": "https://vk.com/online_samp",
   "URL_YOUTUBE": "https://www.youtube.com/channel/UCCzB4ySWiZfRvApMU2CTfEA",
   "URL_INSTAGRAM": "https://www.instagram.com/online_samp",
-  "URL_SUPPORT": "https://vk.me/emeraldrussia_tech",
-  "URL_TELEGRAM": "https://t.me/emeraldrussia_dev"
+  "URL_SUPPORT": "https://vk.me/android_client",
+  "URL_TELEGRAM": "https://t.me/onlinerp_channel"
 }
